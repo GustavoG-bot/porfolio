@@ -1,7 +1,5 @@
 # Bem-vindo(a) ao meu Portfólio de Análise e Ciência de Dados!
 
-Juntando  projetos  e fazendo um porftófio
-
 # PROJETOS
 
 # Power BI
@@ -72,8 +70,42 @@ Sinta-se à vontade para usar os recursos interativos do painel para aprofundar 
 
 # Python
 
+## Projeto de Previsão de Preços e Web Scraping
+
+Análise Preditiva do Preço de Imóveis
+
+![Imagem Ilustrativa](imgs/python_quinto_andar.png)
+
+## Visão Geral
+
+Este projeto envolve o uso da Automação de Processos Robóticos (RPA) com o UiPath para realizar web scraping, extrair dados imobiliários e posteriormente utilizar técnicas de ciência de dados para análise e previsão. Os objetivos principais incluem coleta de dados, limpeza, exploração e construção de um modelo preditivo para estimar os preços de propriedades com base em diversas características como número de quartos, tipo de propriedade, vagas de estacionamento e metragem quadrada.
+
+## Descrição do Projeto
+
+### Web Scraping com UiPath
+
+Utilizando as capacidades de RPA do UiPath, o projeto inicia com web scraping para reunir dados imobiliários de fontes online. O UiPath é utilizado para navegar por páginas da web, extrair informações relevantes e armazená-las em um formato estruturado.
+
+### Transformação de Dados com Excel
+
+Os dados extraídos são transferidos para uma planilha do Excel para processamento adicional. Esta etapa envolve organizar e formatar os dados para prepará-los para análises subsequentes.
+
+### Limpeza e Exploração de Dados
+
+Com os dados agora em um formato utilizável, o projeto procede à limpeza e exploração do conjunto de dados. Isso envolve lidar com valores ausentes, outliers e outras inconsistências. Análise exploratória de dados (EDA) é realizada para obter insights sobre a distribuição e relacionamentos dentro do conjunto de dados.
+
+### Modelagem Preditiva com PyTorch
+
+O núcleo do projeto envolve a construção de um modelo preditivo usando o PyTorch, um framework de aprendizado profundo. Uma rede neural é projetada e treinada para prever os preços de propriedades com base em características-chave, como número de quartos, tipo de propriedade, vagas de estacionamento e metragem quadrada.
+
+### Comparação de Modelos
+
+Além da rede neural, um modelo de regressão pré-treinado é utilizado para análise comparativa. O desempenho de ambos os modelos é avaliado para determinar sua eficácia na previsão de preços imobiliários.
+
+Veja o repositório em: https://github.com/GustavoG-bot/quinto_andartrain
 
 
+---
 
 # SQL 
 
