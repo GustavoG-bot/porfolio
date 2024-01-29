@@ -189,5 +189,5 @@ Veja também meu portfólio de alguns projetos nesssas áreas: https://drive.goo
 
 Se você tiver alguma pergunta, comentário ou desejar entrar em contato comigo, sinta-se à vontade para fazê-lo por meio dos links abaixo:
 
-[Linkedin]([(https://www.linkedin.com/in/gustavo-camargoin/)https://www.linkedin.com/in/gustavo-camargoin/])
-[Github]([https://github.com/GustavoG-bot])
+- Linkedin: https://www.linkedin.com/in/gustavo-camargoin/ 
+- Github: https://github.com/GustavoG-bot
