@@ -172,12 +172,16 @@ Disponível no repositório: https://github.com/GustavoG-bot/sql_train/tree/main
 
 # RPA
 
+Robôs desenvolvidos usando software de automação chamado UiPath. Robôs disponíveis no link: https://drive.google.com/drive/folders/1z1asixySCBIEPo7rdZiDt7rKl1lYAnrJ
+
+Exemplo: (colocar video do web scraping real estate)
+
 
 --- 
 
 # SOBRE
 
-Olá!
+Olá! 😊
 
 Sou um estudante de Engenharia Mecatrônica no Insper, atualmente cursando o nono semestre. Desde o início da minha jornada acadêmica, tenho sido impulsionado por explorar diferentes áreas da engenharia, sendo todas relacionadas a áreas que meu curso aborda, como programação, robótica, elétrica/eletrônica, teoria de controle, mecânica, dentre outras. 
 
