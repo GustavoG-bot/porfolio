@@ -107,6 +107,32 @@ Veja o repositório em: https://github.com/GustavoG-bot/quinto_andartrain
 
 ---
 
+# Projeto de Transferência de Potência sem Fio (WPT) - Acoplamento Ressonante Indutivo
+
+## Visão Geral
+
+![Imagem Ilustrativa](imgs/wpt.png)
+
+A Transferência de Potência sem Fio (WPT), ou Transferência de Potência via Wireless, é um sistema de transmissão de energia elétrica sem o uso de fios. A transferência de energia ocorre por meio de um campo magnético variante no tempo, gerado por um circuito transmissor e recebido por um dispositivo receptor que se deseja carregar.
+
+Neste projeto, foi estudado uma tecnologia específica de WPT, conhecida como Acoplamento Ressonante Indutivo. Esse sistema opera de maneira semelhante a um transformador, onde há duas bobinas separadas. A bobina do primário, por meio de uma fonte de tensão, transfere energia para o secundário, onde há uma carga acoplada. A diferença do WPT em relação ao transformador é a presença de capacitores no primário e no secundário, juntamente com as autoindutâncias das bobinas, tornando o sistema oscilante para uma determinada frequência de ressonância. Essa frequência deve ser a mesma para ambos transmissor e receptor. Se o sistema oscilar na frequência de ressonância por meio de uma ação forçada, haverá transferência de energia.
+
+Durante a execução deste projeto, as seguintes tarefas foram realizadas:
+
+1. Adaptação do modelo de transformador para o estudo do circuito WPT ressonante;
+2. Simulação do modelo do circuito WPT em Python e identificação da frequência de transmissão ótima para cada condição de carga e coeficiente de acoplamento magnético;
+3. Montagem de um circuito WPT capaz de transmitir energia sem fios para uma aplicação escolhida;
+4. Apresentação dos resultados das simulações e validações.
+
+Veja o repositório do projeto em: https://github.com/GustavoG-bot/WPTeletromag
+
+Veja mais projetos de python em:
+- Jogo de pygame: https://github.com/GustavoG-bot/projetogamedessoft 
+- Predição de níveis de radiação solar: https://github.com/GustavoG-bot/projeto2data
+- Explore meus repositórios para mais projetos!
+
+--- 
+
 # SQL 
 
 
