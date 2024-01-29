@@ -168,11 +168,26 @@ Este projeto utiliza a base de dados "sakila" para realizar análises e responde
 
 Disponível no repositório: https://github.com/GustavoG-bot/sql_train/tree/main
 
+---
 
 # RPA
 
 
+--- 
+
 # SOBRE
 
+Olá!
+
+Sou um estudante de Engenharia Mecatrônica no Insper, atualmente cursando o nono semestre. Desde o início da minha jornada acadêmica, tenho sido impulsionado por explorar diferentes áreas da engenharia, sendo todas relacionadas a áreas que meu curso aborda, como programação, robótica, elétrica/eletrônica, teoria de controle, mecânica, dentre outras. 
+
+Veja também meu portfólio de alguns projetos nesssas áreas: https://drive.google.com/drive/folders/1Fl73x_nhXwF1cUF_o1W-frHUlm11oCJU?usp=sharing
+
+--- 
 
 # CONTATO
+
+Se você tiver alguma pergunta, comentário ou desejar entrar em contato comigo, sinta-se à vontade para fazê-lo por meio dos links abaixo:
+
+[Linkedin]([(https://www.linkedin.com/in/gustavo-camargoin/)https://www.linkedin.com/in/gustavo-camargoin/])
+[Github]([https://github.com/GustavoG-bot])
