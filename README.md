@@ -107,7 +107,7 @@ Veja o repositório em: https://github.com/GustavoG-bot/quinto_andartrain
 
 ---
 
-# Projeto de Transferência de Potência sem Fio (WPT) - Acoplamento Ressonante Indutivo
+## Projeto de Transferência de Potência sem Fio (WPT) - Acoplamento Ressonante Indutivo
 
 ## Visão Geral
 
@@ -135,6 +135,38 @@ Veja mais projetos de python em:
 
 # SQL 
 
+![Imagem Ilustrativa](imgs/mysql.png)
+
+## Projeto de Análise da Base de Dados Sakila
+
+Este projeto utiliza a base de dados "sakila" para realizar análises e responder a diversas perguntas relacionadas à locadora de filmes. A base de dados "sakila" contém informações sobre filmes, clientes, pagamentos, atores e outras entidades relacionadas a uma locadora fictícia.
+
+## Perguntas Respondidas
+
+1. **Número de Filmes Alugados por Categoria e Receita Total:**
+   - Apresenta o número total de filmes alugados por categoria, juntamente com a receita total gerada por esses aluguéis.
+
+2. **Clientes que Mais Gastaram na Locadora:**
+   - Identifica os clientes que mais gastaram com a loja, listando seus nomes, sobrenomes e o total pago.
+
+3. **Atores/Atrizes cujo Nome Inicia com "A":**
+   - Lista os atores e atrizes cujos nomes começam com a letra "A".
+
+4. **Número de Filmes por Ator:**
+   - Apresenta o número total de filmes em que cada ator atuou.
+
+5. **Número de Filmes por Ator com Filtro:**
+   - Filtra os atores que participaram de 35 ou mais filmes, apresentando seus nomes e o total de filmes.
+
+6. **Quantidade de Filmes por Estoque:**
+   - Mostra a quantidade de filmes disponíveis em cada estoque, juntamente com os títulos dos filmes.
+
+7. **Top Clientes por Categoria Específica:**
+   - Identifica os principais clientes que alugaram filmes da categoria 'Action', listando seus IDs, nomes e o total de aluguéis.
+
+## Código (SQL)
+
+Disponível no repositório: https://github.com/GustavoG-bot/sql_train/tree/main
 
 
 # RPA
