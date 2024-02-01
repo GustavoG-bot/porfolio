@@ -193,3 +193,4 @@ Se você tiver alguma pergunta, comentário ou desejar entrar em contato comigo,
 
 - Linkedin: https://www.linkedin.com/in/gustavo-camargoin/ 
 - Github: https://github.com/GustavoG-bot
+- Kaggle: https://www.kaggle.com/guedes5132
