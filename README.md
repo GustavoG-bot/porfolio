@@ -1,5 +1,7 @@
 # Bem-vindo(a) ao meu Portfólio de Análise e Ciência de Dados!
 
+Eng Portfolio: https://github.com/GustavoG-bot/portfolio_eng
+
 # Power BI
 
 ## Painel de Xadrez
